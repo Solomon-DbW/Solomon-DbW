@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on: Python
 - 📫 How to reach me: solomonfos99@gmail.com
-- 😄 Pronouns: I'm a male
 - ⚡ Fun fact: The W16 Bugatti engine is just two V8's strapped together🤯🤯🤯🤯 AND Python is older than Java😲😲😱😱
 
 <!---
