@@ -1,4 +1,4 @@
--- 👋 Hi, I’m @Solomon-DbW
+- 👋 Hi, I’m @Solomon-DbW
 - 👀 I’m interested in cars, F1 and Python 
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on: Python
