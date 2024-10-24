@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solomon-DbW
 - 👀 I’m interested in cars, F1 and Python 
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning bash
 - 💞️ I’m looking to collaborate on: Python
 - 📫 How to reach me: solomonfos99@gmail.com
 - ⚡ Fun fact: The W16 Bugatti engine is just two V8's strapped together
