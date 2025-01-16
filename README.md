@@ -5,7 +5,7 @@
 - 📫 How to reach me: solomonfos99@gmail.com
 - ⚡ Fun fact: The W16 Bugatti engine is just two V8's strapped together
 - 😲 Another one: Python is older than Java
-- 🤔 An F! one: The Mercedes W11 is the fastest F1 car of all time
+- 🤔 An F1 one: The Mercedes W11 is the fastest F1 car of all time
 
 <!---
 Solomon-DbW/Solomon-DbW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
