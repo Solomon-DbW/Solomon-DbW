@@ -7,4 +7,4 @@
 - 😲 Another one: Python is older than Java
 - 🤔 An F1 one: The Mercedes W11 is the fastest F1 car of all time
 
-[![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solomon-Dbw)](https://github.com/Solomon-Dbw/github-readme-stats)
+[![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solomon-Dbw&show_icons=true)](https://github.com/Solomon-Dbw/github-readme-stats)
