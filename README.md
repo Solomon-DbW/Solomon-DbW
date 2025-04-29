@@ -9,7 +9,7 @@
 
 [![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solomon-Dbw&show_icons=true&theme=dark)](https://github.com/Solomon-Dbw/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solomon-DbW&repo=Arch_Config_Files)](https://github.com/Solomon-DbW/Arch_Comfig_Files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solomon-DbW&repo=Arch_Config_Files&show_icons=true&theme=dark)](https://github.com/Solomon-DbW/Arch_Comfig_Files)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-DbW&hide=jupyter%20notebook&langs_count=8)](https://github.com/Solomon-DbW/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-DbW&hide=jupyter%20notebook&langs_count=7&show_icons=true&theme=dark)](https://github.com/Solomon-DbW/github-readme-stats)
 
