@@ -8,4 +8,5 @@
 - 🤔 An F1 one: The Mercedes W11 is the fastest F1 car of all time
 
 [![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solomon-Dbw&show_icons=true&theme=dark)](https://github.com/Solomon-Dbw/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solomon-DbW&repo=Arch_Config_Files)](https://github.com/Solomon-DbW/Arch_Comfig_Files)
