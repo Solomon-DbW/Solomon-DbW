@@ -11,4 +11,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Solomon-DbW&repo=Arch_Config_Files)](https://github.com/Solomon-DbW/Arch_Comfig_Files)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-Dbw&hide#Jupyter-Notebook)](https://github.com/Solomon-Dbw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-DbW&hide=jupyter%20notebook)](https://github.com/Solomon-DbW/github-readme-stats)
