@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # ${\color{lightblue}Hi, \space I'm \space Solomon.}$
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2300&pause=1000&color=A9D9D3&center=true&vCenter=true&random=false&width=800&height=30&lines=Willkommen!;I'm+Solomon)
 
 <div align="center">
 
