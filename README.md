@@ -13,7 +13,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 <!-- Replace with your image path -->
-<img align="right" src="./take_on_me.png" width="48%">
+<img align="right" src="./W11_with_DRS.jpg" width="48%">
 
 <div align="center">
 
